@@ -523,4 +523,7 @@ paket-files/
 # wireshark
 *.cap
 
+!depends/
+!depends/**
+
 # End of https://www.gitignore.io/api/c,vim,python,windows,visualstudio
